@@ -1,7 +1,9 @@
 Early Glaucoma Detection Using Multimodal Analysis of Fundus Images
+<img width="691" height="411" alt="image" src="https://github.com/user-attachments/assets/3a8ea347-df55-4b6d-8ef7-878efc61b299" />
 
-This repository contains the implementation of a multimodal deep learning framework for early glaucoma detection using retinal fundus images. The proposed architecture combines structural information from the optic nerve head region and vascular characteristics extracted from retinal blood vessels to improve glaucoma screening performance.
-
+This repository contains the implementation of a multimodal deep learning framework for early glaucoma detection using retinal fundus images. The proposed architecture combines structural information from the optic nerve head region and vascular
+characteristics extracted from retinal blood vessels to improve glaucoma screening performance.
+<img width="690" height="483" alt="image" src="https://github.com/user-attachments/assets/9a60e5e3-bffc-4e91-ad31-2c3715a1f3dc" />
 Dataset
 
 The study utilizes data from the Standardized Multi-Channel Dataset for Glaucoma (SMDG-19), which provides standardized fundus images and associated annotations for glaucoma-related tasks. Specifically, two subsets are used:
